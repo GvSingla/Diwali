@@ -6,3 +6,4 @@
 ## [Demo page link](https://jhamadhav.com/diwali/)
 
 
+https://gvsingla.github.io/Diwali/
