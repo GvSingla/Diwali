@@ -1,2 +1,8 @@
 # Diwali
-Diwali2023
+<center>
+<img src="./assets/demo.png" />
+</center>
+
+## [Demo page link](https://jhamadhav.com/diwali/)
+
+
